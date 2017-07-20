@@ -1,0 +1,35 @@
+name: MasaiMara
+analytics: {}
+github: true
+author:
+  name: 'David '
+  email: dchipping@gmail.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+content: []
+layout_spectrum: 0.2724014
+color:
+  lightness: 0.8101411
+  brandColors:
+    - '#565040'
+    - '#211612'
+    - '#C6BEAA'
+    - '#A85626'
+    - '#B0884A'
+  saturation: 0.8996416
+  brandStrength: 0.5405917332973331
+  rhythmicContrast: 0.9164786
+content_rating:
+  adult: false
+typography_spectrum: 0.006083565065637231
+opengraph: {}
